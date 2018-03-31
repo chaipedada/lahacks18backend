@@ -1,0 +1,7 @@
+{
+  "RESULT_TOPIC": "notes",
+  "RESULT_BUCKET": "notesimages",
+  "TRANSLATE_TOPIC": "english",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
