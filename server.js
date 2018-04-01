@@ -9,7 +9,7 @@ app.listen(port, () => {
 });
 */
 require('./app/routes')(app, {});
-const port = 8000;
+const port = 8080;
 app.listen(port, () => {
   console.log('We are live on ' + port);
 });

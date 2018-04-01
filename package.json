@@ -27,13 +27,19 @@
     "@google-cloud/translate": "^1.1.0",
     "@google-cloud/vision": "^0.18.0",
     "body-parser": "^1.18.2",
-    "shelljs": "^0.8.1",
-    "shelljs-exec-proxy": "^0.1.1",
     "express": "^4.16.3",
     "file-system": "^2.2.2",
     "firebase": "^4.12.1",
+    "nlcst-to-string": "^2.0.1",
+    "node-wav": "0.0.2",
+    "retext": "^5.0.0",
+    "retext-keywords": "^4.0.1",
     "safe-buffer": "^5.1.1",
-    "unirest": "^0.5.1"
+    "shelljs": "^0.8.1",
+    "shelljs-exec-proxy": "^0.1.1",
+    "to-vfile": "^2.2.0",
+    "unirest": "^0.5.1",
+    "wav-file-info": "0.0.8"
   },
   "devDependencies": {
     "ava": "^0.25.0",
